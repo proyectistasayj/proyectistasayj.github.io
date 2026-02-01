@@ -3,7 +3,9 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ "" | absolute_url }}/" class="logo">
+    <img src="{{ "/assets/images/mi-logo.png" | absolute_url }}" alt="Logo Proyectistas A&J" style="height: 40px; width: auto; vertical-align: middle;">
+	</a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
