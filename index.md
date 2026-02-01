@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Proyectamos hoy el legado de tu mañana'
 description: null
 image: null
 author: null
