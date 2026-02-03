@@ -1,17 +1,19 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Proyectistas A&J
+subtitle: Arquitectura e Interiorismo
+email: rosarioperalta1999@gmail.com
+description: Estudio de arquitectura e interiorismo. Diseño contemporáneo, funcionalidad y detalle.
+baseurl: ""
 url: https://proyectistasayj.github.io
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+
+author: Angelica, Carla Peralta  
+street_address: Av. 20 de Marzo 145
+city: San Agustín de Cajas - Huancayo
+state: Junín
+zip_code: 12001
+country: Perú
+phone: +51 902148221
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,15 +24,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram: https://www.instagram.com/proyectistas_ayj
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
   Tiktok: https://www.tiktok.com/@proyectistas_ayj
+  Facebook: https://www.facebook.com/aj.proyectistas
+  LinkedIn:
+  GitHub:
 
 # build settings
 markdown: kramdown
