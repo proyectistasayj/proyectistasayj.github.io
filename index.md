@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "A&J PROYECTITAS - Proyectamos hoy el legado de tu mañana"
+landing-title: "A&J PROYECTISTAS - Proyectamos hoy el legado de tu mañana"
 description: "Estudio de arquitectura e interiorismo. Diseño contemporáneo, funcionalidad y detalle."
 image: null
 author: null
