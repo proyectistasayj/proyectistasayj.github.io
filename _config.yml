@@ -1,18 +1,17 @@
 # site settings
 title: Proyectistas A&J
 subtitle: Arquitectura e Interiorismo
-email: rosarioperalta1999@gmail.com
+email: proyecticas_ayj@gmail.com
 description: Estudio de arquitectura e interiorismo. Diseño contemporáneo, funcionalidad y detalle.
 baseurl: ""
 url: https://proyectistasayj.github.io
 
 author: Angelica, Carla Peralta  
-street_address: Av. 20 de Marzo 145
-city: San Agustín de Cajas - Huancayo
-state: Junín
-zip_code: 12001
-country: Perú
-phone: +51 902148221
+dirección: Av. 20 de Marzo 145
+ciudad: San Agustín de Cajas - Huancayo
+departamento: Junín
+pais: Perú
+Celular: +51 902148221
 
 
 # homepage tiles
