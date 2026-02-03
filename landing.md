@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Estudio
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: "Arquitectura e interiorismo con enfoque moderno, funcional y detallista."
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,75 +13,97 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Arquitectura e interiorismo</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>
+			Somos un estudio que diseña espacios contemporáneos, funcionales y con identidad.
+			Trabajamos proyectos residenciales y comerciales, cuidando cada detalle desde el concepto
+			hasta la ejecución, con comunicación clara y entregables ordenados.
+		</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
+
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="portafolio.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="Portafolio" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Portafolio</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+					Selección de proyectos y propuestas donde priorizamos distribución inteligente,
+					materialidad y una línea visual limpia.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="portafolio.html" class="button">Ver proyectos</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="servicios.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="Servicios" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Servicios</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+					Arquitectura, interiorismo, remodelaciones, renders y asesoría técnica.
+					Un proceso claro para que avances con seguridad desde la idea hasta la obra.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="servicios.html" class="button">Ver servicios</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="contacto.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="Contacto" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Contacto</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+					¿Tienes un proyecto en mente? Escríbenos y conversemos.
+					Te respondemos con claridad, tiempos y próximos pasos.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="contacto.html" class="button">Escribir</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+
 </section>
 
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Misión y visión</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+
+		<p><strong>Misión:</strong> Diseñar y desarrollar proyectos de arquitectura e interiorismo que integren estética, funcionalidad y eficiencia, alineados a las necesidades reales de cada cliente.</p>
+
+		<p><strong>Visión:</strong> Consolidarnos como un estudio referente por su diseño moderno, atención al detalle y procesos claros, creando espacios que aporten valor y se mantengan vigentes con el tiempo.</p>
+
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="contacto.html" class="button next">Empecemos</a></li>
 		</ul>
 	</div>
 </section>
 
 </div>
+
