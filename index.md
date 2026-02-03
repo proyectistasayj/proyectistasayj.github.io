@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Proyectamos hoy el legado de tu mañana'
-description: HOLA COMO ESTAS
+description: null
 image: null
 author: null
 show_tile: false
